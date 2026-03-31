@@ -45,3 +45,12 @@ The University of Chicago
       
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_2.pdf)
+ 
+### Lecture 3 (March 31): Hierarchical models, Gaussian variance priors, preview to MCMC and PGMs
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+    - [Materials for L4](https://dynalist.io/d/ehiGZbaDzYG4q9tJvuCrag3U#z=Hu-cB8VnWnu5IXOgZ-3MaF6C) from Mathew Stephens' STAT 348 (2021) on **shrinkage, empirical Bayes, the "Normal means" problem** 
+    - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture01-bayes_normal.pdf) on **Bayesian analysis of Gaussian models**
+    - [Chapter 5 "Hierarchical models"](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) of Andrew Gelman et al.'s _Bayesian Data Analysis_
+      
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_3.pdf)
